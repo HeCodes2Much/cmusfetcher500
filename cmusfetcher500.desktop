@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=cmusfetcher500.desktop
+Comment=A simple tool for fetching an image and sound from cmus
+Exec=cmusfetcher500
+Terminal=false
+Type=Application
