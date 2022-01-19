@@ -3,6 +3,6 @@
 Version=1.0
 Name=cmusfetcher500.desktop
 Comment=A simple tool for fetching an image and sound from cmus
-Exec=cmusfetcher500
-Terminal=false
-Type=Application
+Exec=sh /usr/bin/cmusfetcher500
+Hidden=false
+Categories=System
